@@ -1,0 +1,46 @@
+header {
+    background-color: #051883;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  /* Estilos para el footer */
+  footer {
+    background-color: #cec6c6;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+
+  
+
+  /*Estilos adicionales para el contenido*/
+  body {
+    background-color: #ffffff;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  /* Estilos para los enlaces del footer */
+  footer a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+
+  /* Estilos para los enlaces del footer al pasar el ratón */
+  footer a:hover {
+    text-decoration: underline;
+  }
+
+  canvas {
+    background-color: white;
+  }
+
+  .table-coordinates {
+    width: 400px; /* Cambia este valor según tus preferencias */
+    margin: auto; /* Esto centra la tabla horizontalmente en la página */
+}
